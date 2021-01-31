@@ -72,7 +72,7 @@ int main()
 
         int result = substringDiff(k, s1, s2);
 
-        cout << result << "\n";
+        fout << result << "\n";
     }
 
     fout.close();
